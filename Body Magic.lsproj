@@ -3,7 +3,7 @@
     "document_id": "BzcbB1uBP9nLZ2tlESzw",
     "original_document_id": "BzcbB1uBP9nLZ2tlESzw",
     "version": "29",
-    "lastChanged": "1675191584541",
+    "lastChanged": "1675199225774",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -463,7 +463,7 @@
             "mapPinPoints": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1594779272792448:367615"
+            "active_graph_asset": "-1:-1"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
